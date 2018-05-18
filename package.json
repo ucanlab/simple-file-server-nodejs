@@ -1,0 +1,27 @@
+{
+  "name": "simple-file-server-nodejs",
+  "version": "1.0.0",
+  "description": "Simple File Server over HTTP",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Wei-Tsung Su",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucanlab/simple-file-server-nodejs.git"
+  },
+  "keywords": [
+    "FTP;",
+    "HTTP"
+  ],
+  "bugs": {
+    "url": "https://github.com/ucanlab/simple-file-server-nodejs/issues"
+  },
+  "homepage": "https://github.com/ucanlab/simple-file-server-nodejs#readme"
+}
