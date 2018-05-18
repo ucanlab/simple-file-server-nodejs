@@ -4,7 +4,11 @@ Simple File Server via HTTP based on Node.js
 ## Installation
 Step 1. Install [Node.js](https://nodejs.org/) on your host.
 
-Step 2. Run file server with the following command
+Step 2. Install packages
+
+    $ npm install
+
+Step 3. Run file server with the following command
 
     $ node index.js
 
